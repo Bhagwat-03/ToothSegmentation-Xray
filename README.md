@@ -35,8 +35,5 @@ This project utilizes U-Net architecture for image segmentation, focusing on enh
 - Explore integration with other dental diagnostic tools.
 - Enhance model performance through additional training data.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 Special thanks to [Your Institution/Colleagues] for their support and resources.
